@@ -17,7 +17,7 @@ Google Sign In button is not functional
 |-------|-------|
 | Environment | QA |
 | Browser | Chrome |
-| Browser Version | |
+| Browser Version | Latest |
 | OS | Windows 11 |
 | Build / Version | v1.0 |
 | Module | Login (Authentication) |
@@ -101,9 +101,9 @@ Screenshot attached below
 | Field | Value |
 |-------|-------|
 | Reported By | Muhindhar S V |
-| Assigned To |  |
+| Assigned To | Dev Team |
 | Date Reported | 2026-07-09 00:00:00 |
-| Sprint | |
+| Sprint | 3 |
 | Related Story / Task | |
 | Related Pull Request | |
 | Status | New |
