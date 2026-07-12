@@ -88,6 +88,7 @@ The application displays:
 
 ## Screenshots / Screen Recording
 Screenshot attached
+<img width="583" height="631" alt="Image" src="https://github.com/user-attachments/assets/a539bc50-0135-4770-afaa-eedab9dd416e" />
 
 ---
 
